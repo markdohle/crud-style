@@ -1,5 +1,7 @@
 # crud-style
 
+MIT xPro React Week 4 - NextTech Assignment Instructions
+
 Adding Styling to a Functional CRUD
 
 Through this week's videos, you have seen a CRUD application being built and what a finished product could look like. Now you can practice using specific CSS fields to have a polished application. Styling can help users of your functional applications understand how to use it intuitively and effectively. In this activity, you can do exactly that by taking this Timestamped Checklist Application to its final stage by adding styling.
